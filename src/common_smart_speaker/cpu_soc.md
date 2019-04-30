@@ -15,7 +15,7 @@
 | 荣耀YOYO智能音箱 | ![](../assets/img/honor_yoyo_speaker.png) | ![](../assets/img/yoyo_mt8516aaaa.png) | MTK 联发科 MT8516 | |
 | 京东叮咚mini2智能音箱 | ![](../assets/img/jd_dingdong_mini2_speaker.png) | ![](../assets/img/dingdong_mt8516.png) | MTK 联发科 MT8516 | |
 | 出门问问Tichome Mini小问智能音箱 | ![](../assets/img/mobvoijd_tichome_xiaowen_speaker.png) | ![](../assets/img/tichome_mt2601.png) | MTK 联发科 MT2601 | |
-| 小米米家智能语音后视镜 | ![](../assets/img/xiaomi_mijia_voice_back_mirror.png) | ![](../assets/img/xiaomi_back_mirror_mt8665nv.png) | MTK 联发科 MT8665NV | 智能行车记录仪 |
+| 小米米家智能语音后视镜 | ![](../assets/img/xiaomi_mijia_voice_back_mirror.jpg) | ![](../assets/img/xiaomi_back_mirror_mt8665nv.png) | MTK 联发科 MT8665NV | 智能行车记录仪 |
 | 小米小爱智能闹钟 | ![](../assets/img/xiaomi_xiaoai_clock.png) | ![](../assets/img/xiaoai_clock_mt8516.png) | MTK 联发科 MT8516 | |
 | 天猫精灵M1智能音箱 | ![](../assets/img/tmall_m1_speaker.png) | ![](../assets/img/m1_mt8516.png) | MTK 联发科 MT8516 | |
 | 天猫精灵方糖智能音箱 | ![](../assets/img/tmall_c1_speaker.png) | ![](../assets/img/c1_mt8516.png) | MTK 联发科 MT8516 | 扬声器单元采用了小规格的3W/4Ω喇叭 |
@@ -53,7 +53,7 @@
 | 百度小度智能音箱 | ![](../assets/img/baidu_xiaodu_speaker.png) |  ![](../assets/img/xiaodu_amlogic_a113x.png) |Amlogic晶晨 A113X | |
 | 百度小度智能音箱Pro | ![](../assets/img/baidu_xiaodu_pro_speaker.png) |  ![](../assets/img/xiaodu_pro_amlogic_a113x.png) |Amlogic晶晨 A113X | |
 | 小米AI音箱 | ![](../assets/img/xaomi_ai_speaker.png) |  ![](../assets/img/xiaomi_ai_amlogic_a112.png) |Amlogic晶晨 A112 | |
-| 小米小爱智能音箱HD | ![](../assets/img/xaomi_ai_hd_speaker.png) |  ![](../assets/img/xiaomi_ai_hd_amlogic_a113x.png) |Amlogic晶晨 A113X | |
+| 小米小爱智能音箱HD | ![](../assets/img/xaomi_ai_hd_speaker.jpg) |  ![](../assets/img/xiaomi_ai_hd_amlogic_a113x.jpg) |Amlogic晶晨 A113X | |
 | 天猫精灵魔盒 | ![](../assets/img/tmall_genie_magic_box_black.png) |  ![](../assets/img/magic_box_amlogic_s905x2.png) | Amlogic晶晨 S905X2 | |
 | 双AI系统Yeelight语音助手<br/><br/>青岛亿联客信息技术有限公司 | ![](../assets/img/yee_light_voice_assitant.png) |  ![](../assets/img/yee_light_amlogic_a112.png) | 晶晨Amlogic A112 | Yeelight语音助手最大的特色就是内置微软小冰和小爱同学两套AI系统 |
 

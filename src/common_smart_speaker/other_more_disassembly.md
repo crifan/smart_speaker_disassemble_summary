@@ -25,7 +25,7 @@
 
 其中有几十款音频类设备的[拆解报告](http://www.52audio.com/archives/category/teardowns)：
 
-![](../../assets/img/52audio_many_teardowns.png)
+![](../assets/img/52audio_many_teardowns.png)
 
 ## eWiseTech
 
